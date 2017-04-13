@@ -10,7 +10,7 @@
 # IDE specific #
 ################
 *.csproj.user
-
+*.suo
 
 # Project Folders #
 ###################
